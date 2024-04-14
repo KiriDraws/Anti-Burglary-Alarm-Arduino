@@ -1,0 +1,13 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+LiquidCrystal
+
+LiquidCrystal
+LiquidCrystal I2C
+Keypad
+EEPROMEx
+AnalogRTCLib
+RTClib
+RTCLib by NeiroN
